@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da96a44f-43d9-416c-9591-28b4af3dfbb8" name="Default Changelist" comment="" />
+    <list default="true" id="da96a44f-43d9-416c-9591-28b4af3dfbb8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/objects.a" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../segtree-hdu1698" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

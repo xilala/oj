@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a23ed606-7f0a-496e-8fd0-5c4e554ed813" name="Default Changelist" comment="" />
+    <list default="true" id="a23ed606-7f0a-496e-8fd0-5c4e554ed813" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/objects.a" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
