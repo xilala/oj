@@ -12,7 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da96a44f-43d9-416c-9591-28b4af3dfbb8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../l327/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../l327/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/CMakeFiles/segtree_hdu1698.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/segtree_hdu1698.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/cmake-build-debug/segtree_hdu1698.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segtree-hdu1698/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-hdu1698/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segtree-sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../segtree-sum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
