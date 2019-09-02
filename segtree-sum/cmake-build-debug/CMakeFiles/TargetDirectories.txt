@@ -1,0 +1,3 @@
+E:/ldx/oj/segtree-sum/cmake-build-debug/CMakeFiles/segtree_sum.dir
+E:/ldx/oj/segtree-sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/ldx/oj/segtree-sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ldx/oj/segtree-update-sum/main.cpp
+segtree.h
+E:/ldx/oj/segtree-update-sum/segtree.h
+
+E:/ldx/oj/segtree-update-sum/segtree.h
+iostream
+-
+vector
+-
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="l327"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/ldx/oj/l327/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="l327">
+				<Option output="E:/ldx/oj/l327/cmake-build-debug/l327.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ldx/oj/l327/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 l327"/>
+					<CompileFile command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="l327/fast">
+				<Option output="E:/ldx/oj/l327/cmake-build-debug/l327.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ldx/oj/l327/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="E:/ldx/env/clion/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 l327/fast"/>
+					<CompileFile command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/ldx/oj/l327/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/ldx/oj/l327/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/ldx/env/clion/MinGW/bin/mingw32-make.exe -f &quot;E:/ldx/oj/l327/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/ldx/oj/l327/main.cpp">
+			<Option target="l327"/>
+		</Unit>
+		<Unit filename="E:/ldx/oj/l327/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
